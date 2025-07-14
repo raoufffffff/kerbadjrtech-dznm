@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "_id": "6875440d2b12f00cb7bfa834",
+    "userId": "687541e72b12f00cb7bfa828",
+    "name": "r tech",
+    "sTitel": "شركة للبيع ",
+    "price": 4500,
+    "best": true,
+    "type": "",
+    "imgs": [
+      "https://i.ibb.co/0jtQX7zM/kerbadj-r-tech.png"
+    ],
+    "date": "2025-07-14T17:53:17.321Z",
+    "__v": 0
+  }
+]
